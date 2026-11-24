@@ -23,7 +23,14 @@ Requires Python 3.10+ with `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-l
 | Path | Description |
 |---|---|
 | `Supervised_ML_Engineering_Tutorial.ipynb` | The tutorial notebook |
-| `Datasets/Regression/` | `automobiles.csv` (tutorial), `FuelConsumptionCo2.csv`, `kc_house_data.csv`, `manhattan_Housing.csv` |
-| `Datasets/Classification/` | `diabetes.csv`, `titanic.csv`, `Orange_Telecom_Churn_Data.csv` |
+| `Datasets/Regression/` | `automobiles.csv` (tutorial), `energy_efficiency.csv`, `airfoil_self_noise.csv`, `concrete_compressive_strength.csv` |
+| `Datasets/Classification/` | `predictive_maintenance.csv`, `secom.csv`, `electrical_grid_stability.csv` |
 
-Datasets originate from the public [AP-State-Skill-Development-Corporation/Datasets](https://github.com/AP-State-Skill-Development-Corporation/Datasets) repository.
+The six practice datasets are from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/) and are included here as CSV under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/):
+
+- Tsanas, A. and Xifara, A. (2012). Energy Efficiency. https://doi.org/10.24432/C51307
+- Brooks, T., Pope, D., and Marcolini, M. (1989). Airfoil Self-Noise. https://doi.org/10.24432/C5VW2C
+- Yeh, I. (1998). Concrete Compressive Strength. https://doi.org/10.24432/C5PK67
+- AI4I 2020 Predictive Maintenance Dataset. (2020). https://doi.org/10.24432/C5HS5C
+- McCann, M. and Johnston, A. (2008). SECOM. https://doi.org/10.24432/C54305
+- Arzamasov, V. (2018). Electrical Grid Stability Simulated Data. https://doi.org/10.24432/C5PG66
